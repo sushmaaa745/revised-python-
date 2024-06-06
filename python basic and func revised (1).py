@@ -3,7 +3,7 @@
 
 ###Input and Output Statements Example 
 name = input("Enter your name: ")
-print("Hello, " + name + "! Welcome.")
+print("Hello, " + name + "Welcome.")
 
 ''
 
